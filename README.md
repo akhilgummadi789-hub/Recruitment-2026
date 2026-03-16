@@ -1,83 +1,17 @@
-# C3 Recruitment  2026
+Submission by: Akhil Gummadi
 
-> We don’t recruit people.  
-> We publish work.
+Problem Chosen
+Static Website Setup
 
-This repository is the official recruitment system for the Cloud Community Club (C3).
+Solution
+I developed a basic static website using HTML, CSS, and JavaScript. The website includes a simple and clean layout with structured sections such as Home, About, Projects, and Contact. The design is responsive and easy to navigate, providing a simple user interface. The website has been successfully deployed online for public access using GitHub Pages.
 
-There are no forms.  
-There are only real problems.
+Work Link
+Live Website: https://akhilgummadi789-hub.github.io/static-website/
+Repository: https://github.com/akhilgummadi789-hub/static-website
 
-If you can solve one well, you belong here.
-
----
-
-## 🚀 How This Works
-
-1. Go to the **Issues** tab.
-2. Browse the open problem statements.
-3. Choose **ONE** problem from **ONE** team.
-4. Open that issue.
-5. Reply in the comments with your structured submission.
-6. Submit before the deadline.
-
-That’s it.
-
----
-
-## 📌 Important Rules
-
-- Submit your response **as a comment** on that issue.
-- Follow the submission format provided inside the issue.
-- Low-effort or generic responses will not be reviewed.
-- Do not create new issues.
-- Deadline: **28/02/26**
-
----
-
-## 🧠 Evaluation Criteria
-
-We evaluate based on:
-
-- Clarity of thinking
-- Depth of execution
-- Practicality
-- Ownership mindset
-
-
----
-
-## 🏷 Teams & Problem Areas
-
-Each issue is labeled by team:
-
-- Documentation-team
-- Designing-team
-- Organizing-team
-- Technical-team
-- Socialmedia-team
-- Publicity-team
-
-Pick the team where you believe you can contribute best.
-
----
-
-## 📝 Submission Format
-
-Inside the issue, reply using this format:
-
-```markdown
-# Submission by: Your Name
-
-## Problem Chosen
-[Problem Title]
-
-## Solution
-[Your complete solution]
-
-## Work Link (if applicable)
-[GitHub / Figma / Drive / Live link]
-
-## What I’d Improve With More Time
-[Reflection]
-```
+What I’d Improve With More Time
+--> Improve the overall UI and responsiveness for different devices
+--> Add animations and interactive elements using JavaScript
+--> Enhance the design with modern styling and better layout
+--> Add more sections like projects and achievements
